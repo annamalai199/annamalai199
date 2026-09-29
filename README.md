@@ -198,15 +198,6 @@ I especially enjoy projects that turn **technical ideas and research concepts in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annamalai199&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamalai199&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
