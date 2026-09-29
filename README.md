@@ -1,70 +1,69 @@
-# Hi 👋, I'm Sri Annamalai J
+# 👋 Hi, I'm Sri Annamalai J
 
-### 🤖 AI/ML Engineer in the Making | Agentic AI | LLMs | RAG | Computer Vision | Robotics
+### 🤖 AI/ML Developer | Agentic AI | LLMs | RAG | Computer Vision | Robotics
 
-🎓 **B.E. Computer Science and Engineering (IoT)**
+🎓 **Third-Year B.E. Computer Science and Engineering (IoT)**
 🏫 **Sri Krishna College of Technology, Coimbatore, India**
-💻 Passionate about building **intelligent AI systems, LLM applications, and AI-powered real-world solutions**
+
+> Building intelligent applications by combining **AI, software engineering, and IoT/robotics**.
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **third-year B.E. CSE (IoT) student** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, and Robotics**.
+I am a **third-year Computer Science and Engineering (IoT) student** passionate about building practical solutions with **Artificial Intelligence, Machine Learning, Generative AI, and Robotics**.
 
-I enjoy building projects that combine **AI with practical software and hardware systems**, from RAG-based applications and intelligent shopping assistants to computer vision and IoT-enabled robotics.
+My current focus is on **Agentic AI, Large Language Models, Retrieval-Augmented Generation (RAG), Computer Vision, and AI-powered applications**. I enjoy moving from an idea to a working system by combining **models, retrieval pipelines, APIs, databases, and deployment**.
 
-My current focus is on developing a strong foundation in **AI engineering and software development** while exploring how LLMs, AI agents, computer vision, and edge devices can be used to solve real-world problems.
+I also explore **IoT and edge robotics**, where AI can interact with cameras, sensors, actuators, and embedded devices to solve real-world problems.
 
-* 🤖 Interested in **Agentic AI, LLMs, RAG, and AI-powered applications**
-* 🧠 Building and experimenting with **Retrieval-Augmented Generation pipelines**
-* 👁️ Exploring **Computer Vision, Object Detection, and Deep Learning**
-* 🦾 Interested in **Edge AI, IoT, Robotics, and Autonomous Systems**
-* 🐍 Comfortable working with **Python** for AI/ML development
-* 💻 Practicing **C++ and Data Structures & Algorithms** through LeetCode
-* ⚡ Enjoy turning ideas into **working prototypes and deployable applications**
-* 🚀 Actively participating in **hackathons, technical challenges, and project development**
+* 🤖 Building applications around **LLMs, AI Agents, and RAG**
+* 🧠 Exploring **LangChain, LangGraph, embeddings, vector search, and reranking**
+* 👁️ Working with **Computer Vision, CNNs, and YOLO-based object detection**
+* 🦾 Exploring **IoT, Edge AI, robotics, and autonomous systems**
+* ⚡ Developing **FastAPI backends and deployable AI applications**
+* 💻 Strengthening **C++ and Data Structures & Algorithms** through LeetCode
+* 🚀 Participating in **hackathons, technical challenges, and project development**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-`Python` • `C++` • `Java` • `SQL`
+`Python` `C++` `Java` `SQL`
 
 ### 🤖 AI / Machine Learning
 
-`PyTorch` • `TensorFlow` • `Keras` • `Scikit-learn`
-`Deep Learning` • `CNN` • `Computer Vision` • `YOLO` • `Model Deployment`
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn`
+`Deep Learning` `CNN` `Computer Vision` `YOLO`
 
-### 🧠 Generative AI
+### 🧠 Generative AI & Agentic AI
 
-`LLMs` • `Agentic AI` • `RAG` • `LangChain` • `LangGraph`
-`Embeddings` • `Semantic Search` • `Prompt Engineering`
-`Vector Databases` • `FAISS` • `ChromaDB` • `BM25` • `Cross-Encoder Reranking`
+`LLMs` `Agentic AI` `RAG` `LangChain` `LangGraph`
+`Embeddings` `Semantic Search` `Prompt Engineering`
+`FAISS` `ChromaDB` `BM25` `Cross-Encoder Reranking`
 
 ### ⚙️ Backend & APIs
 
-`FastAPI` • `REST APIs` • `Uvicorn` • `Python Backend Development`
+`FastAPI` `REST APIs` `Uvicorn`
 
 ### ☁️ Cloud & Deployment
 
-`AWS` • `AWS Bedrock` • `Docker` • `Railway` • `Vercel`
+`AWS` `AWS Bedrock` `Docker` `Railway` `Vercel`
 
 ### 📱 Application Development
 
-`Flutter` • `Firebase` • `Firestore`
+`Flutter` `Firebase` `Firestore`
 
 ### 🔧 IoT & Robotics
 
-`ESP32` • `ESP32-CAM` • `Sensors` • `Actuators` • `Servo Motors`
-`Edge AI` • `Robotics` • `IoT Systems`
+`ESP32` `ESP32-CAM` `Sensors` `Actuators` `Servo Motors`
+`Edge AI` `IoT Systems` `Robotics`
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 
-`Git` • `GitHub` • `Jupyter Notebook` • `Google Colab`
-`Roboflow` • `VS Code` • `Linux / WSL`
+`Git` `GitHub` `Jupyter` `Google Colab` `Roboflow` `VS Code` `Linux / WSL`
 
 ---
 
@@ -72,65 +71,63 @@ My current focus is on developing a strong foundation in **AI engineering and so
 
 ### 🛒 ShopWise AI — Intelligent Shopping Assistant
 
-An intelligent shopping assistant designed to improve product discovery using **LLMs, LangChain, LangGraph, vector databases, and Streamlit**.
+An AI-powered shopping assistant designed to improve product discovery using **LLMs, LangChain, LangGraph, vector databases, and semantic retrieval**.
 
-**Key Technologies:**
-`Python` `LangChain` `LangGraph` `LLMs` `Vector DB` `Sentence Transformers` `SQLite` `Streamlit`
+**Tech Stack:**
+`Python` `LangChain` `LangGraph` `LLMs` `Sentence Transformers` `Vector DB` `SQLite` `Streamlit`
 
 ---
 
 ### 📚 RAG-Based Insurance Q&A System
 
-A document-based question-answering system using **Retrieval-Augmented Generation** to retrieve relevant information before generating responses.
+A document-based question-answering system built around a multi-stage retrieval pipeline for generating more relevant and grounded answers.
 
-The system explores a multi-stage retrieval pipeline involving:
+**Pipeline:**
 
-**Document Processing → Embeddings → Vector Search → BM25 Retrieval → Cross-Encoder Reranking → LLM Response**
+`Documents → Embeddings → Vector Search → BM25 → Cross-Encoder Reranking → LLM`
 
-**Key Technologies:**
-`Python` `FastAPI` `LangChain` `FAISS` `ChromaDB` `BM25` `Cross-Encoder` `LLMs`
+**Tech Stack:**
+`Python` `FastAPI` `LangChain` `FAISS` `ChromaDB` `BM25` `Cross-Encoder`
 
 ---
 
 ### 🌱 Potato Disease Classification
 
-A deep-learning application capable of classifying potato leaves into:
+A deep-learning application for identifying potato leaf conditions:
 
-* Early Blight
-* Late Blight
-* Healthy
+`Early Blight` • `Late Blight` • `Healthy`
 
-The trained model was integrated with a **Flutter application** using **TensorFlow Lite**, with a FastAPI backend for prediction services.
+The model was integrated into a **Flutter application using TensorFlow Lite**, with a **FastAPI backend** supporting prediction services.
 
-**Key Technologies:**
+**Tech Stack:**
 `Python` `TensorFlow` `Keras` `CNN` `TensorFlow Lite` `FastAPI` `Flutter`
 
 ---
 
-### 🔥 AI-Based Fire, Smoke & Fall Detection
+### 🔥 Fire, Smoke & Fall Detection
 
-Working with object-detection systems for detecting safety-critical events such as **fire, smoke, people, and falls** using YOLO-based computer vision models.
+A YOLO-based computer vision system for detecting safety-related events such as **fire, smoke, people, and falls**.
 
-**Key Technologies:**
+**Tech Stack:**
 `YOLO` `Python` `Roboflow` `Computer Vision` `Deep Learning`
 
 ---
 
 ### 🦾 AI + IoT Robotics
 
-Developing robotics and IoT prototypes that integrate **ESP32, cameras, sensors, actuators, and AI-based decision making** for real-world automation and intelligent control.
+Developing intelligent IoT and robotics prototypes integrating **ESP32, cameras, sensors, actuators, and AI-based decision making**.
 
-**Key Technologies:**
+**Tech Stack:**
 `ESP32` `ESP32-CAM` `IoT` `Computer Vision` `Servo Motors` `Edge AI`
 
 ---
 
 ## 🏆 Achievements
 
-🏅 **Finalist — AtomQuest Hackathon 2026**
+🏅 **AtomQuest Hackathon 2026 — Finalist**
 Selected among **56 finalists from 7,200+ participants across India**
 
-🚀 **Semi-finalist — AtomQuest'25**
+🚀 **AtomQuest'25 — Semi-finalist**
 
 🎓 **Amazon ML Summer School 2026 — Selection Test**
 
@@ -138,89 +135,102 @@ Selected among **56 finalists from 7,200+ participants across India**
 
 📜 **NPTEL — Enhancing Soft Skills and Personality**
 
-🛰️ **ISRO Certifications / Technical Programs**
+🛰️ **ISRO Technical Programs / Certifications**
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 * 🤖 Advanced **Agentic AI architectures**
 * 🧠 **LLM application development**
-* 📚 Advanced **RAG pipelines and retrieval optimization**
+* 📖 Advanced **RAG and retrieval optimization**
 * 🔗 **LangGraph and multi-step AI workflows**
 * 👁️ **Computer Vision and Object Detection**
 * 💻 **Data Structures & Algorithms in C++**
-* ☁️ **Cloud deployment for AI applications**
-* 🦾 **Edge AI, IoT and Autonomous Robotics**
+* ☁️ **Cloud deployment and AI backend engineering**
+* 🦾 **Edge AI, IoT, and autonomous robotics**
 
 ---
 
 ## 🎯 Areas of Interest
 
 ```text
-Agentic AI
-    ↓
-LLMs & AI Agents
-    ↓
-RAG & Knowledge Retrieval
-    ↓
-Computer Vision
-    ↓
-Edge AI + IoT
-    ↓
-Robotics & Autonomous Systems
+                    Agentic AI
+                        │
+                        ▼
+                 LLM Applications
+                        │
+                        ▼
+                  RAG & Retrieval
+                        │
+                        ▼
+                 Computer Vision
+                        │
+                        ▼
+                   Edge AI / IoT
+                        │
+                        ▼
+               Robotics & Autonomy
 ```
 
-I am particularly interested in building systems where **AI models can interact with tools, retrieve information, make decisions, and solve practical problems**.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annamalai199&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamalai199&layout=compact&theme=transparent&hide_border=true" />
-</p>
+I am particularly interested in systems where **AI can understand information, retrieve knowledge, use tools, make decisions, and interact with the real world**.
 
 ---
 
 ## 💻 Coding & Problem Solving
 
-I regularly practice **Data Structures and Algorithms in C++** and use competitive programming platforms to improve:
+I regularly practice **Data Structures and Algorithms in C++** to strengthen my problem-solving and software engineering fundamentals.
 
-`Problem Solving` • `Algorithms` • `Data Structures` • `Time Complexity` • `Optimization`
+**Focus Areas:**
+`Data Structures` • `Algorithms` • `Problem Solving` • `Time Complexity` • `Optimization`
 
-🔗 **LeetCode:** Add your LeetCode profile link here
+🔗 **LeetCode:** [sriannamalai](https://leetcode.com/u/sriannamalai/)
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 🤝 Open to Collaboration
 
-I am interested in collaborating on projects involving:
+I'm interested in collaborating on projects involving:
 
-**Artificial Intelligence • Generative AI • AI Agents • RAG • Computer Vision • Robotics • IoT • Open Source**
+**AI/ML • Generative AI • Agentic AI • RAG • Computer Vision • Robotics • IoT • Open Source**
 
-I'm especially interested in projects that turn research ideas into **practical, usable systems**.
+I especially enjoy projects that turn **technical ideas and research concepts into practical working systems**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annamalai199&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamalai199&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-**GitHub:** [annamalai199](https://github.com/annamalai199)
-**LinkedIn:** [Sri Annamalai J](https://www.linkedin.com/in/sri-annamalai-j-2bb827313/)
-**LeetCode:** https://leetcode.com/u/sriannamalai/
-**Email:** sriannamalai1909@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/sri-annamalai-j-2bb827313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Annamalai%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sriannamalai/">
+    <img src="https://img.shields.io/badge/LeetCode-sriannamalai-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:sriannamalai1909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sriannamalai1909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ A Little About My Approach
+## ⚡ My Approach
 
-> **Learn → Build → Experiment → Deploy → Improve**
+**Learn → Build → Experiment → Deploy → Improve**
 
-I believe the best way to learn technology is to **build real projects, experiment with new ideas, and solve problems that matter.**
+I believe meaningful learning happens by **building real projects, experimenting with new technologies, solving problems, and continuously improving what I create**.
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build intelligent systems and turn ideas into reality. 🚀**
+**Building intelligent systems, one project at a time. 🚀**
